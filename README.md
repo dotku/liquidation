@@ -9,7 +9,7 @@ A project used to clean up liquidation stocks.
 | blue nitrile gloves, size smalls only | 1 truckload | n/a | n/a | 11/23/2023 |
 | [Cleancide wipes](./CleancideWipes) | 190 cases | $7/case | n/a | 11/23/2023 |
 
-** Price, the pricing is only eslimate price, please email dkwholesale2020@gmail.com for more aculated content.
+** Price, the pricing is only eslimate price, please email [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com) for more aculated content.
 
 ## Source 
 
@@ -27,4 +27,4 @@ Source product/service is the order directly from the manufacture or service pro
 
 ## Contact
 
-dkwholesale2020@gmail.com
+[dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
