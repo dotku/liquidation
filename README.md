@@ -4,9 +4,9 @@ A project used to clean up liquidation stocks.
 
 ## Stock
 
-| Product Name | Stock | Selling Price | Buying Price |
-| --- | --- | --- | --- |
-| blue nitrile gloves, size smalls only | 1 truckload | n/a | n/a |
+| Product Name | Stock | Selling Price | Buying Price | Status |
+| --- | --- | --- | --- | --- |
+| blue nitrile gloves, size smalls only | 1 truckload | n/a | n/a | new |
 
 ## Source 
 
