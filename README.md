@@ -7,6 +7,9 @@ A project used to clean up liquidation stocks.
 | Product Name | Stock | Selling Price | Buying Price | Last Updated |
 | --- | --- | --- | --- | --- |
 | blue nitrile gloves, size smalls only | 1 truckload | n/a | n/a | 11/23/2023 |
+| [Cleancide wipes](./CleancideWipes) | pallets | $7/case | n/a | 11/23/2023 |
+
+** Price, the pricing is only eslimate price, please email dkwholesale2020@gmail.com for more aculated content.
 
 ## Source 
 
