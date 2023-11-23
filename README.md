@@ -8,6 +8,10 @@ A project used to clean up liquidation stocks.
 | --- | --- | --- | --- |
 | blue nitrile gloves, size smalls only | 1 truckload | n/a | n/a |
 
+| Service Name | Location | Pricing |
+| --- | --- | --- |
+| International Shipping | Guandong Shenzhen Baoan District | n/a |
+
 ## Contact
 
 dkwholesale2020@gmail.com
