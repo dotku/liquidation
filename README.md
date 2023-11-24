@@ -25,6 +25,17 @@ Source product/service is the order directly from the manufacture or service pro
 | --- | --- | --- |
 | International Shipping | Guandong Shenzhen Baoan District | n/a |
 
+## Media
+
+### Youtube
+
+[@dkwholesale-us](https://www.youtube.com/@dk-wholesale)
+
+### Tictok
+
+@zyintltrade
+
+
 ## Contact
 
 [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
