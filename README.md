@@ -33,7 +33,7 @@ Source product/service is the order directly from the manufacture or service pro
 
 ### Tictok
 
-@zyintltrade
+[@zyintltrade](https://www.tiktok.com/@zyintltrade)
 
 
 ## Contact
